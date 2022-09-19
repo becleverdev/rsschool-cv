@@ -19,7 +19,7 @@ I like to learn and I know this is a basic skill in programming. Because program
 * Figma, Photoshop.
 * Editors: VSCode, Sublime.
 # Code Examples:
-```json
+```javascript
     function multiply(a, b){
     return a * b  
     }
